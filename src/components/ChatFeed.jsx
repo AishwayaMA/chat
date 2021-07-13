@@ -50,7 +50,7 @@ const ChatFeed = (props) => {
         <div className="chat-subtitle">
           {chat.people.map((person) => ` ${person.person.username}`)}
           <br /><br />
-          <h2><a href="http://localhost:3030/" target="_blank">start video call</a></h2>
+          <h2><a href="https://videoc-web-app.herokuapp.com/" target="_blank">start video call</a></h2>
         </div>
       </div>
       {renderMessages()}
