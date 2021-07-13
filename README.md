@@ -14,4 +14,6 @@ Check out the live demo:  https://video-chatting-web-app.herokuapp.com/
 
 3.Go to your browser and type "http://localhost:3000" in the address bar.
 
-4.Hurrah! It is done.
+4.For video to work follow the steps given here: https://github.com/AishwayaMA/video
+
+5.Hurrah! It is done.
