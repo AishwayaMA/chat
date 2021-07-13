@@ -1,10 +1,20 @@
-# chat
+# MS Teams Clone App
 
-This is a MS Teams clone chatting app built using This is a Microsoft Teams clone built with React JS and Chat Engine-where registered users can login, can chat, form teams!
-They can also video call each other by clicking on 'start video call' option on the top.
+This is a MS Teams clone video-chatting app built for the Microsoft Engage 2021, using React JS and Chat Engine(APIs and UI Kit)-where registered users can login, can chat, form teams and do video call by clicking on 'start video call' option on the top.
 
-Check out the live demo:  https://video-chatting-web-app.herokuapp.com/
+# Deployment
 
+The app is deployed on Heroku and here is the link :  https://video-chatting-web-app.herokuapp.com/
+
+# Features 
+
+1. Login form
+2. Chat application- send text,images,videos
+3. Create teams
+4. Previous chat available
+5. Video calling
+6. Audio toggle options(mute/unmute)
+7. Video toggle options(mute/unmute)
 
 # How to run the project?
 
