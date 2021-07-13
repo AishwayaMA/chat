@@ -15,6 +15,8 @@ The app is deployed on Heroku and here is the link :  https://video-chatting-web
 5. Video calling
 6. Audio toggle options(mute/unmute)
 7. Video toggle options(mute/unmute)
+8. Link to add others to the call
+
 
 # How to run the project?
 
